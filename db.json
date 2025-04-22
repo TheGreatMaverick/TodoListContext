@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "text": "Изучить урок",
+      "completed": false,
+      "id": "001"
+    },
+    {
+      "text": "Пройти тест",
+      "completed": false,
+      "id": "002"
+    },
+    {
+      "text": "Выполнить задание",
+      "completed": false,
+      "id": "003"
+    },
+    {
+      "text": "Выполнить доп. задание",
+      "completed": false,
+      "id": "004"
+    }
+  ]
+}
