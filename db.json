@@ -1,24 +1,34 @@
 {
   "todos": [
     {
-      "text": "Изучить урок",
+      "id": "001",
       "completed": false,
-      "id": "001"
+      "text": "Изучить урок"
     },
     {
-      "text": "Пройти тест",
+      "id": "002",
       "completed": false,
-      "id": "002"
+      "text": "Пройти тест"
     },
     {
-      "text": "Выполнить задание",
+      "id": "003",
       "completed": false,
-      "id": "003"
+      "text": "Выполнить задание"
     },
     {
-      "text": "Выполнить доп. задание",
+      "id": "004",
       "completed": false,
-      "id": "004"
+      "text": "Выполнить доп. задание"
+    },
+    {
+      "text": "qwe",
+      "completed": false,
+      "id": "CMXRdfI"
+    },
+    {
+      "text": "qwerty",
+      "completed": true,
+      "id": "PWfJQFj"
     }
   ]
 }
