@@ -1,3 +1,3 @@
-# Todo-list
+# To-do-list-2.0
 
-Module2/5.ServerRequests/Task1
+Module 2. Frontend / 5. SereverRequests / Task 1
