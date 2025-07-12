@@ -1,6 +1,8 @@
-import React from "react";
+import React, { useContext } from "react";
+import { AppContext } from "../context";
 
-export const FiltredForm = ({ search, setSearch, isSorting, setIsSorting}) => {
+export const FiltredForm = () => {
+  const { search, setSearch, isSorting, setIsSorting } = useContext(AppContext);
   return (
     <>
       <button onClick={() => setIsSorting(!isSorting)}>

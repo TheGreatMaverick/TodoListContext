@@ -21,14 +21,9 @@
       "text": "Выполнить доп. задание"
     },
     {
-      "text": "qwe",
-      "completed": false,
-      "id": "CMXRdfI"
-    },
-    {
-      "text": "qwerty",
-      "completed": true,
-      "id": "PWfJQFj"
+      "id": "311a",
+      "text": "Выложить готовую дз на github и отправить на проверку куратору",
+      "completed": false
     }
   ]
 }
